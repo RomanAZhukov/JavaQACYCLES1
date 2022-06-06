@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         SqrtService service = new SqrtService();
-        System.out.println(service.calcSqrt(200, 300));
+        System.out.println(service.calcSqrt(100, 500));
 
     }
 
